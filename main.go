@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"os"
 	"strings"
-	"zarks/system"
-	"zarks/zmath/encrypt"
+
+	"github.com/isarcus/zarks/system"
+	"github.com/isarcus/zarks/zmath/encrypt"
 )
 
 // FILENAME is what you think it is
